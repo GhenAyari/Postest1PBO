@@ -15,4 +15,10 @@ Program ini adalah sebuah program sederhana CRUD dengan tema manajemen daftar he
 <br>
 Ini adalah kode untuk menampilkan menu dengan ada perulangannya yang ditambahkan, yaitu do while
 <br>
-
+<img width="816" height="701" alt="Screenshot 2025-09-10 081949" src="https://github.com/user-attachments/assets/5b332244-81d9-4585-afaf-ad16db96fb33" />
+---
+<img width="1036" height="771" alt="Screenshot 2025-09-10 082006" src="https://github.com/user-attachments/assets/e18a84f6-030b-4804-9608-971c4bbfd3be" />
+---
+<img width="709" height="543" alt="Screenshot 2025-09-10 082014" src="https://github.com/user-attachments/assets/12bb9b31-4751-4267-978f-550ef6ba29aa" />
+---
+<img width="737" height="350" alt="Screenshot 2025-09-10 082024" src="https://github.com/user-attachments/assets/7fcd2f2c-82f1-4924-895e-6c920846ece7" />
