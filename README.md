@@ -10,8 +10,6 @@ Program ini adalah sebuah program sederhana CRUD dengan tema manajemen daftar he
 
 ## Kode
 
-## Kode
-
 ```java FILENAME=ManajemenHewan.java
 import java.util.ArrayList;
 import java.util.Scanner;
