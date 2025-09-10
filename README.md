@@ -10,26 +10,34 @@ Program ini adalah sebuah program sederhana CRUD dengan tema manajemen daftar he
 
 ## Kode
 
+## Kode
+
+```java FILENAME=ManajemenHewan.java
 import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        ArrayList<String> daftarHewan = new ArrayList<>();
+        ArrayList<Hewan> daftarHewan = new ArrayList<>();
         int pilihan;
 
         do {
-            System.out.println("+======================================+");
+            System.out.println("=========================================");
             System.out.println("Manajemen Daftar Hewan Kebun Binatang");
-            System.out.println("+======================================+");
-            System.out.println("|    1. Tambah Hewan                   |");
-            System.out.println("|    2. Lihat Daftar Hewan             |");
-            System.out.println("|    3. Ubah Data Hewan                |");
-            System.out.println("|    4. Hapus Hewan                    |");
-            System.out.println("|    5. Keluar                         |");
-            System.out.println("+======================================+");
+            System.out.println("=========================================");
+            System.out.println("| 1. Tambah Hewan                      |");
+            System.out.println("| 2. Lihat Daftar Hewan                |");
+            System.out.println("| 3. Ubah Data Hewan                   |");
+            System.out.println("| 4. Hapus Hewan                       |");
+            System.out.println("| 5. Keluar                            |");
+            System.out.println("=========================================");
 
             System.out.print("Pilih menu yang mana: ");
             pilihan = input.nextInt();
-            input.nextLine();
+            input.nextLine(); // Membersihkan buffer setelah nextInt()
+
+            // ... Lanjutan kode Anda (switch case, dll.)
+        } while (pilihan != 5);
+    }
+}
