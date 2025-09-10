@@ -35,4 +35,6 @@ Ini adalah kode untuk nangani jika user memilih  pilihan ke 4 yaitu hapus hewan.
 <br>
 Ini adalah kode untuk user yang memilih pilihan ke 5 yaitu keluar dari program.
 
-<br><br>
+
+## Output
+
