@@ -37,4 +37,31 @@ Ini adalah kode untuk user yang memilih pilihan ke 5 yaitu keluar dari program.
 
 
 ## Output
+<img width="474" height="484" alt="Screenshot 2025-09-10 072059" src="https://github.com/user-attachments/assets/83b91d69-229d-4b8a-a1d6-9431e403705b" />
+<br>
+Ini adalah outputnya, terdapat 5 pilihan, di sini memilih pilihan 1. Tambah Hewan, lalu masukkan nama hewan, jenis hewan, umur hewan, habitat hewan.
+
+<br><br>
+<img width="589" height="362" alt="Screenshot 2025-09-10 072122" src="https://github.com/user-attachments/assets/d4489db6-a460-43a2-be7e-da3797271524" />
+<br>
+Ini adalah pilihan ke 2. Lihat daftar hewan, nanti akan muncul daftar hewan apa aja.
+
+<br><br>
+<img width="613" height="531" alt="Screenshot 2025-09-10 072244" src="https://github.com/user-attachments/assets/be87ab22-4900-4f08-a37b-fdb99876c07e" />
+<br>
+Ini adalah pilihan ke 3. Ubah data hewan, nanti masukkan nomor berapa hewan yang mau diubah lalu ganti apa yang mau diganti.
+
+<br><br>
+<img width="691" height="421" alt="Screenshot 2025-09-10 072311" src="https://github.com/user-attachments/assets/828d4f9c-682d-4ed5-b6db-a1316169e92d" />
+<br>
+Ini adalah pilihan ke 4. Hapus data hewan, tinggal hapus hewan nomor berapa yang mau dihapus.
+
+<br><br>
+<img width="506" height="325" alt="Screenshot 2025-09-10 072343" src="https://github.com/user-attachments/assets/c73e04b4-8ee3-4dba-b1d3-8e80080fbcd8" />
+<br>
+Ini adalah menu keluar.
+
+<br><br>
+
+
 
