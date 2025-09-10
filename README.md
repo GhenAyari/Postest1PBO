@@ -22,7 +22,17 @@ Ini adalah kode untuk menangani pilihan ke pertama atau ke 1 dan ke 2 yaitu tamb
 
 <br><br>
 <img width="1036" height="771" alt="Screenshot 2025-09-10 082006" src="https://github.com/user-attachments/assets/e18a84f6-030b-4804-9608-971c4bbfd3be" />
----
+<br>
+Ini adalah kode untuk nangani jika user memilih pilihan ke 3 yaitu ubah data hewan.
+
+<br><br>
 <img width="709" height="543" alt="Screenshot 2025-09-10 082014" src="https://github.com/user-attachments/assets/12bb9b31-4751-4267-978f-550ef6ba29aa" />
----
+<br>
+Ini adalah kode untuk nangani jika user memilih  pilihan ke 4 yaitu hapus hewan.
+
+<br><br>
 <img width="737" height="350" alt="Screenshot 2025-09-10 082024" src="https://github.com/user-attachments/assets/7fcd2f2c-82f1-4924-895e-6c920846ece7" />
+<br>
+Ini adalah kode untuk user yang memilih pilihan ke 5 yaitu keluar dari program.
+
+<br><br>
